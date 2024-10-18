@@ -7,12 +7,17 @@ name = "monte_carlo_sim"
 version = "0.0.1"
 dependencies = [
    "numpy",
+   "sys",
+   "os"
+   "matplotlib.pyplot"
+   "matplotlib.animation",
+   "mpl_toolkits.mplot3d",
 ]
 authors = [
   { name="Luis Rufino", email="luisrufino24@gmail.com" },
   { name="Julia Rice", email="jrrice@syr.edu" },
 ]
-description = "A small example package"
+description = "Package for Project 2"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
