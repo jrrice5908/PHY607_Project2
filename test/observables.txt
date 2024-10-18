@@ -1,0 +1,2 @@
+TimeStep	Temperature(K)	Pressure(Pa)	Energy(J)	Average Velocity
+0	32.195057	3219.505749	4829.258624	9.298790
