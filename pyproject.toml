@@ -8,10 +8,9 @@ version = "0.0.1"
 dependencies = [
    "numpy",
    "sys",
-   "os"
-   "matplotlib.pyplot"
-   "matplotlib.animation",
-   "mpl_toolkits.mplot3d",
+   "os",
+   "matplotlib",
+   "mpl_toolkits",
 ]
 authors = [
   { name="Luis Rufino", email="luisrufino24@gmail.com" },
