@@ -42,3 +42,15 @@ To update to the most recent version of ffmpeg:
 conda update ffmpeg
 ```
 
+Finally, to run the main script, you'll first need to make it an executable:
+
+```
+chmod +x main.sh
+```
+
+Which can then be executed in command line with:
+
+```
+./main.sh
+```
+
