@@ -27,4 +27,4 @@ classifiers = [
 license = {file = "LICENSE"}
 
 [project.scripts]
-run_mc_sim = "src:main"
+run_mc_sim = "PHY607_Project2:main.sh"
