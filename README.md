@@ -33,7 +33,7 @@ pip install -e .
 NOTE: You may need to update ffmpeg (or install it in the first place) in order for the Matplotlib animation to work. To initially install, run the following script:
 
 ```
-***
+pip install ffmpeg
 ```
 
 To update to the most recent version of ffmpeg:
