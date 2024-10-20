@@ -1,4 +1,4 @@
-Installing the Package:
+__Installing the Package:__
 
 To install this package, follow this procedure: 
 
