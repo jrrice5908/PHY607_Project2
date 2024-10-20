@@ -54,3 +54,4 @@ Which can then be executed in command line with:
 ./main.sh
 ```
 
+Additional Note: Testing parameters can be changed by altering values in the "if __name__= '__main__':" section of test.py if desired.
