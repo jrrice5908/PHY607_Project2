@@ -84,10 +84,11 @@ conda update ffmpeg
 ```
 
 ### Running the Main Script:
-Finally, to run the main script, you'll first need to make it an executable:
+Finally, to run the main script, you'll need to make it an executable:
 
 ```bash
 chmod +x main.sh
+./main.sh
 ```
 
 
